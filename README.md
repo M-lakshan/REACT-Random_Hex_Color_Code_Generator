@@ -1,4 +1,4 @@
-# Random hex-color code generator
+# Random Hex Color Code Generator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
